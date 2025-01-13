@@ -10,7 +10,7 @@ permalink: /exam/frontend/exam-questions
 
 # Exam questions
 
-Frontend exam January 2024
+Frontend Exam January 2025
 
 <div style="page-break-after: always;"></div>
 
@@ -41,7 +41,8 @@ Frontend exam January 2024
 ### REACT
 
 2. What is JSX? Provide an example.
-  -  How would you write the same functionality if you only used Javascript, HTML and DOM manipulation?
+
+- How would you write the same functionality if you only used Javascript, HTML and DOM manipulation?
 
 ### Security/Routing/Styling
 
@@ -74,7 +75,7 @@ Frontend exam January 2024
 
 ### REACT
 
-1. How do you handle errors (HTTP or JS errors) in React? Show examples in you own code. 
+1. How do you handle errors (HTTP or JS errors) in React? Show examples in you own code.
 
 ### Security/Routing/Styling
 
@@ -107,11 +108,11 @@ Frontend exam January 2024
 
 ### REACT
 
-3. Show and explain the useEffect hook (eg. callback, dependency array etc.) 
+3. Show and explain the useEffect hook (eg. callback, dependency array etc.)
 
 ### Security/Routing/Styling
 
-4. Show and explain the different parts of a JWT token. 
+4. Show and explain the different parts of a JWT token.
 
 <div style="page-break-after: always;"></div>
 
@@ -128,7 +129,7 @@ Frontend exam January 2024
 
 ### Security/Routing/Styling
 
-4. Describe and show the login process using JWT 
+4. Describe and show the login process using JWT
 
 <div style="page-break-after: always;"></div>
 
@@ -226,4 +227,4 @@ Frontend exam January 2024
 
 ### Security/Routing/Styling
 
-4. Describe and show the login process using JWT. 
+4. Describe and show the login process using JWT.
